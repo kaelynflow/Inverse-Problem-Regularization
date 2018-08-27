@@ -1,1 +1,1 @@
-In this project, we explore the use of regularization techniques in inverse problems.
+This guide explores the use of regularization techniques, in particular the truncated singular value decomposition and Tikhonov regularization, in inverse problems. Parameter optimization using the L-curve and the use of derivative regularization are also discussed. The guide is contained in a jupyter notebook including code and examples, and the anaconda environment used can be installed from `requirements.txt`.
